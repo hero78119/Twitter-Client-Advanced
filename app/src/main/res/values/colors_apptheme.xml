@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="apptheme_color">#0084b4</color>
+    <color name="background">#e4e4e4</color>
+    <color name="actionbar_background">#3082be</color>
+    <color name="white">#fff</color>
+</resources>

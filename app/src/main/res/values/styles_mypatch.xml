@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="RobotoButtonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="Widget.MyTheme.ActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/actionbar_background</item>
+        <item name="background">@color/actionbar_background</item>
+        <item name="displayOptions">showHome|useLogo|showTitle</item>
+        <item name="android:logo">@drawable/bird</item>
+        <item name="logo">@drawable/bird</item>
+        <item name="android:icon">@drawable/bird</item>
+        <item name="icon">@drawable/bird</item>
+        <item name="android:homeAsUpIndicator">@drawable/bird</item>
+        <item name="homeAsUpIndicator">@drawable/bird</item>
+        <item name="android:showAsAction">always</item>
+    </style>
+
+    <style name="BackGroundImageView">
+        <item name="android:alpha">0.5</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:src">@drawable/placeholder</item>
+    </style>
+</resources>
