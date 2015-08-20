@@ -1,8 +1,8 @@
-# Project 4 - *Name of App Here*
+# Project 4 - *Twitter-Client-Advanced*
 
-**Name of your app** is an android app that allows a user to view home and mentions timelines, view user profiles with user timelines, as well as compose and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Twitter-Client-Advanced** is an android app that allows a user to view home and mentions timelines, view user profiles with user timelines, as well as compose and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: 12 hours spent in total
 
 ## User Stories
 
@@ -37,13 +37,14 @@ The following **additional** features are implemented:
 
 * [x] [GreenDao](https://github.com/greenrobot/greenDAO) as ORM library
 * [x] [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) as progress circle indicator
-* [x] [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) as materil style navigation sliding screen
+* [x] [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) as material-design style navigation sliding screen
+* [x] [smarttablayout](https://github.com/ogaclejapan/SmartTabLayout) as material-design style tab indicators
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -58,7 +59,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2015 JonasWu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
