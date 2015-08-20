@@ -35,7 +35,9 @@ The following **bonus** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] 
+* [x] [GreenDao](https://github.com/greenrobot/greenDAO) as ORM library
+* [x] [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) as progress circle indicator
+* [x] [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) as materil style navigation sliding screen
 
 ## Video Walkthrough
 
